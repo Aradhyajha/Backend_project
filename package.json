@@ -1,0 +1,19 @@
+{
+  "name": "mega_project",
+  "version": "1.0.0",
+  "description": "\"a backend mega project \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "aradhya",
+  "license": "ISC"
+}
